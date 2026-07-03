@@ -14,9 +14,9 @@ But that is why the project is public now.
 
 We want builders involved early.
 
-⸻
+---
 
-The Idea
+## The Idea
 
 AetherMesh is being built around a network of community-run nodes.
 
@@ -35,9 +35,9 @@ Not just a product.
 
 A living mesh.
 
-⸻
+---
 
-Why Help?
+## Why Help?
 
 Because decentralized AI is still wide open.
 
@@ -52,9 +52,9 @@ There are hard problems to solve:
 
 If those questions sound interesting, this project is for you.
 
-⸻
+---
 
-Current Status
+## Current Status
 
 AetherMesh AI is currently in the idea → prototype stage.
 
@@ -66,9 +66,9 @@ Expect early code.
 
 Expect big plans being turned into real systems one piece at a time.
 
-⸻
+---
 
-Looking For Contributors
+## Looking For Contributors
 
 We are looking for people interested in:
 
@@ -87,9 +87,9 @@ You do not need to be an expert.
 
 If you can build, test, review, document, suggest, or break things in useful ways, you can help.
 
-⸻
+---
 
-The Vision
+## The Vision
 
 AetherMesh AI is trying to build something different:
 
@@ -100,6 +100,8 @@ Still early.
 Still experimental.
 
 But if it works, it could be something special.
+
+---
 
 ## 🤖 What Other AIs Say About AetherMesh
 
